@@ -3,7 +3,7 @@
 Welcome to the ISO 27001 Guide repository! This repository is designed to provide comprehensive guidance on implementing, managing, and auditing an Information Security Management System (ISMS) based on the ISO 27001 standard.
 
 
-![ISMS]([[http://lmsotfy.com/so.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadvisera.com%2F27001academy%2Fblog%2F2016%2F05%2F23%2Finformation-security-management-system-isms-according-iso-27001%2F&psig=AOvVaw33DWhZ61sxmS7T3EkC78bb&ust=1717778467583000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDg_8-1x4YDFQAAAAAdAAAAABAE)](https://advisera.com/wp-content/uploads/sites/5/2016/05/what-is-an-information-security-management-system-isms.png))
+![ISMS](https://advisera.com/wp-content/uploads/sites/5/2016/05/what-is-an-information-security-management-system-isms.png)
 
 
 ## 📄 Table of Contents
