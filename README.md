@@ -27,7 +27,7 @@ Welcome to the ISO 27001 Guide repository! This repository is designed to provid
 
 ## 📫 Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [email@example.com](mailto:email@example.com).
+For any questions or suggestions, feel free to open an issue or contact me at [arifemir25@gmail.com](mailto:arifemir25@gmail.com).
 
 ---
 
