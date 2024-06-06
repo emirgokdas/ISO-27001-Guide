@@ -2,6 +2,10 @@
 
 Welcome to the ISO 27001 Guide repository! This repository is designed to provide comprehensive guidance on implementing, managing, and auditing an Information Security Management System (ISMS) based on the ISO 27001 standard.
 
+
+![stack Overflow](http://lmsotfy.com/so.png)
+
+
 ## 📄 Table of Contents
 
 - [Introduction](docs/Introduction.md)
